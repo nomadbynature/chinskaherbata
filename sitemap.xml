@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://chinskaherbata.com/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://chinskaherbata.com/</loc>
+</url>
+<url>
+<loc>https://chinskaherbata.com/8-mitow-na-temat-chinskiej-herbaty/</loc>
+<lastmod>2020-12-08T11:44:14-05:00</lastmod>
+<image:image>
+<image:loc>https://chinskaherbata.com/media/posts/3/paico-oficial-7jFMs5vzsSQ-unsplash.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://chinskaherbata.com/popularnosc-herbaty-puer-historyczny-zbieg-okolicznosci/</loc>
+<lastmod>2020-12-08T11:34:55-05:00</lastmod>
+<image:image>
+<image:loc>https://chinskaherbata.com/media/posts/1/elena-mozhvilo-yii053rSjbk-unsplash-1.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://chinskaherbata.com/trudna-sprawa-z-10-wielkimi-herbatami-chinskimi/</loc>
+<lastmod>2020-12-08T11:43:05-05:00</lastmod>
+<image:image>
+<image:loc>https://chinskaherbata.com/media/posts/2/joshua-golde-qIu77BsFdds-unsplash_opt.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+</urlset>
